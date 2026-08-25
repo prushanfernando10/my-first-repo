@@ -1,1 +1,18 @@
 # my-first-repo
+
+- item1
+- item2
+- item3
+
+1. item1
+2. item2
+3. item3
+
+```mermaid
+flowchat ID
+ A[NodeA]
+ B[NodeB]
+ C[NodeC]
+ A-->B-->C
+ C-.->|BACK|A
+```
